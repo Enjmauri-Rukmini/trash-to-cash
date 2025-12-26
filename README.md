@@ -1,2 +1,3 @@
-# trash-to-cash
+# Smart Waste Reward System
 trash to cash Description
+Smart Waste Reward System is a smart and eco-friendly project designed to keep cities clean and encourage people to recycle waste. In this system, users register through a mobile app and scan a QR code or RFID card at a smart dustbin. The bin automatically identifies the type of waste and measures its weight using sensors. This data is sent to the cloud, and users receive reward points or money based on the waste they dispose of. The rewards can be redeemed through UPI, vouchers, or discounts. This system motivates people to recycle properly, reduces littering, and supports cleaner and greener cities by using modern technologies like IoT, sensors, and mobile applications.
